@@ -14,5 +14,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/steelbrain/atom-package-path.git"
+  },
+  "dependencies": {
+    "sb-callsite": "^1.1.2"
   }
 }
