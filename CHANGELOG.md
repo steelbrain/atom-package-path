@@ -1,3 +1,7 @@
+#### 1.0.2
+
+- Minor package internl problem resolved
+
 #### 1.0.1
 
 - Add specs to ensure stability
