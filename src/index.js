@@ -25,6 +25,10 @@ export function guessFromFilePath(filePath) {
 }
 
 export function guess() {
-  const filePath = callsite.capture()[2].file
+  return guessFromCallIndex(2)
+}
+
+export function guessFromCallIndex(index) {
+  const filePath = callsite.capture()[index].file
   return guessFromFilePath(filePath)
 }
