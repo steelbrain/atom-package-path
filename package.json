@@ -1,6 +1,6 @@
 {
   "name": "atom-package-path",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Get path of requirer apm module from your npm module",
   "main": "lib/index.js",
   "scripts": {
