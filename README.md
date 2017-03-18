@@ -1,6 +1,8 @@
 Atom-Package-Path
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/atom-package-path.svg)](https://greenkeeper.io/)
+
 An npm module to get path of requirer apm module from your npm module
 
 ##### API
